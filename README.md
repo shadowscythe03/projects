@@ -4,7 +4,6 @@ my projects
 
 ## Document Level Text Simplification of College Admission documents
 
-## Image Segmentation techniques
 
 ## m-PainAttnNet: Multimodal Transformer Encoder with Multiscale Deep Learning for Pain Classification Using Physiological Signals
 
@@ -40,6 +39,8 @@ You can change settings in `m-PainAttnNet.ipynb` file for running m-PainAttnNet 
 ### Dataset
 The dataset is available at [BioVid Heat Pain Database](https://www.nit.ovgu.de/BioVid.html).
 
+## Object Detection using Transfer Learning
 
+## Image Segmentation techniques
 
 ## Stable Matchings
